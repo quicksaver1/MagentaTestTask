@@ -1,0 +1,10 @@
+ResourceSpeed 50
+CUST_ID.   XCOORD.   YCOORD.    READY_TIME   DUE_DATE   LOAD_TIME UNLOAD_TIME
+0           0           0           300         1900
+1           48          33          0           1089        10         10
+2           38          22          315         441         10          10
+3           2           25          300         626         10          10
+4           29          27          109         900         10          10
+5           29          32          91          1789        10          10
+
+
